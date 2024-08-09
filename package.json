@@ -1,0 +1,12 @@
+{
+  "name": "temp-email",
+  "version": "0.0.1",
+  "description": "temp emailbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oreki",
+  "license": "MIT"
+}
