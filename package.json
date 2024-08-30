@@ -4,7 +4,10 @@
   "description": "temp emailbox",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:c": "pnpm -F page start",
+    "dev:s": "pnpm -F worker start",
+    "deploy:s": "pnpm -F worker deploy",
+    "deploy:c": "pnpm -F page deploy"
   },
   "keywords": [],
   "author": "Oreki",
